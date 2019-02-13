@@ -1,0 +1,10 @@
+{
+	"plugin-data":
+	{
+		"name": "Private TO-DO",
+		"description": "Add a private-to-do list to dynamic/static/sticky page using the URI."
+	},
+
+	"enable-private-to-do": "Enable private TO-DO",
+	"uri-page": "Specify the URI which you want to attach the TO-DO list."
+}
